@@ -2,7 +2,6 @@
 
 **Autor:** Ruan  
 **Data do estudo de caso:** abril e maio de 2026  
-**Tipo de relato:** estudo de caso técnico, observacional e interventivo em primeira pessoa
 
 ## Resumo
 
